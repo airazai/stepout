@@ -1,2 +1,3 @@
-images/sepatu 1.jpg
+images/images/card-image1.jpg
+
 
